@@ -1,0 +1,6 @@
+{
+  "msg_cancel": "Cancel",
+  "msg_delete": "Delete",
+  "msg_done": "Done",
+  "msg_welcome":"Welcome to Laravel"
+}
